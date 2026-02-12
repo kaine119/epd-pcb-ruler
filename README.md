@@ -1,6 +1,8 @@
 # EPD PCB ruler
 An SUTD/EPD-branded PCB ruler. 
 
+![](assets/out.png?raw=true)
+
 ## Features
 * 200mm ruler with flats on both ends of the scale
 * Metric screw size references

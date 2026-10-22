@@ -17,6 +17,8 @@ An SUTD/EPD-branded PCB ruler.
 * Gerbers available in the Releases section of this repo, otherwise generate your own with KiCad
 * ENIG finish, black solder mask for best results
 
+A step by step guide to ordering from JLCPCB is available [here](https://github.com/kaine119/epd-pcb-ruler/blob/master/guide/ordering-guide.md).
+
 ## Credits
 Design: Kai En  
 Artwork: Harini
